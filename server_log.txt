@@ -1,0 +1,1250 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+
+Server Plugins
+--------------
+ Loading plugin: SKY
+  Loaded.
+ Loading plugin: sscanf
+
+
+ ===============================
+
+      sscanf plugin loaded.     
+
+         Version:  2.8.3        
+
+  (c) 2018 Alex "Y_Less" Cole  
+
+ ===============================
+
+  Loaded.
+ Loading plugin: streamer
+
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+  Loaded.
+ Loading plugin: textdraw-streamer
+
+ ===============================
+                                
+    Textdraw Streamer Yuklendi  
+                                
+          Surum: v1.6.2            
+                                
+    Developer: Burak (NexoR)    
+                                
+ ===============================
+
+  Loaded.
+ Loaded 4 plugins.
+
+
+Ban list
+--------
+ Loaded: samp.ban
+
+I couldn't load any gamemode scripts. Please verify your server.cfg
+It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+
+Server Plugins
+--------------
+ Loading plugin: SKY
+  Loaded.
+ Loading plugin: sscanf
+
+
+ ===============================
+
+      sscanf plugin loaded.     
+
+         Version:  2.8.3        
+
+  (c) 2018 Alex "Y_Less" Cole  
+
+ ===============================
+
+  Loaded.
+ Loading plugin: streamer
+
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+  Loaded.
+ Loading plugin: textdraw-streamer
+
+ ===============================
+                                
+    Textdraw Streamer Yuklendi  
+                                
+          Surum: v1.6.2            
+                                
+    Developer: Burak (NexoR)    
+                                
+ ===============================
+
+  Loaded.
+ Loaded 4 plugins.
+
+
+Ban list
+--------
+ Loaded: samp.ban
+
+I couldn't load any gamemode scripts. Please verify your server.cfg
+It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+
+Server Plugins
+--------------
+ Loading plugin: SKY
+  Loaded.
+ Loading plugin: sscanf
+
+
+ ===============================
+
+      sscanf plugin loaded.     
+
+         Version:  2.8.3        
+
+  (c) 2018 Alex "Y_Less" Cole  
+
+ ===============================
+
+  Loaded.
+ Loading plugin: streamer
+
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+  Loaded.
+ Loading plugin: textdraw-streamer
+
+ ===============================
+                                
+    Textdraw Streamer Yuklendi  
+                                
+          Surum: v1.6.2            
+                                
+    Developer: Burak (NexoR)    
+                                
+ ===============================
+
+  Loaded.
+ Loaded 4 plugins.
+
+
+Ban list
+--------
+ Loaded: samp.ban
+
+I couldn't load any gamemode scripts. Please verify your server.cfg
+It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+
+Server Plugins
+--------------
+ Loading plugin: SKY
+  Loaded.
+ Loading plugin: sscanf
+
+
+ ===============================
+
+      sscanf plugin loaded.     
+
+         Version:  2.8.3        
+
+  (c) 2018 Alex "Y_Less" Cole  
+
+ ===============================
+
+  Loaded.
+ Loading plugin: streamer
+
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+  Loaded.
+ Loading plugin: textdraw-streamer
+
+ ===============================
+                                
+    Textdraw Streamer Yuklendi  
+                                
+          Surum: v1.6.2            
+                                
+    Developer: Burak (NexoR)    
+                                
+ ===============================
+
+  Loaded.
+ Loaded 4 plugins.
+
+
+Ban list
+--------
+ Loaded: samp.ban
+
+I couldn't load any gamemode scripts. Please verify your server.cfg
+It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+
+Server Plugins
+--------------
+ Loading plugin: SKY
+  Loaded.
+ Loading plugin: sscanf
+
+
+ ===============================
+
+      sscanf plugin loaded.     
+
+         Version:  2.8.3        
+
+  (c) 2018 Alex "Y_Less" Cole  
+
+ ===============================
+
+  Loaded.
+ Loading plugin: streamer
+
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+  Loaded.
+ Loading plugin: textdraw-streamer
+
+ ===============================
+                                
+    Textdraw Streamer Yuklendi  
+                                
+          Surum: v1.6.2            
+                                
+    Developer: Burak (NexoR)    
+                                
+ ===============================
+
+  Loaded.
+ Loaded 4 plugins.
+
+
+Ban list
+--------
+ Loaded: samp.ban
+
+
+Filterscripts
+---------------
+  Loading filterscript 'voip.amx'...
+  Loaded 1 filterscripts.
+
+ 
+ 
+ 
+ ======================================= 
+ |                                     | 
+ |        YSI version 4.00.0001        | 
+ |        By Alex "Y_Less" Cole        | 
+ |                                     | 
+ ======================================= 
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+| 
+| Rede Mundo LoKo RPG| Desenvolvido por LoKoDoGTAv
+| 
+| Atual Fundador/Scripter: dev.alex.vct Scripter
+| Carregando GameMode... Aguarde!
+| 
+| Data: [02/02/2024 às 00:26:46]
+| 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-mSelection- WARNING: Reached maximum amount of items, increase "mS_TOTAL_ITEMS"
+-mSelection- WARNING: Reached maximum amount of items, increase "mS_TOTAL_ITEMS"
+-mSelection- WARNING: No Items found in file: mSelections/moveis_decoracao.txt
+=> Objetos            		: 003 Carregadas
+=> Famílias            		: 050 Carregadas
+=> Baus	            		: 001 Carregadas
+=> Casas            		: 586 Carregadas
+=> Empresas         		: 038 Carregadas
+=> Fazendas         		: 020 Carregadas
+=> Territorios         		: 4 Carregadas
+=> Veículos apreendidos 	: null Carregadas
+=> Contas	         	: null Carregadas
+=> Total Carros       		: 797 Criados
+=> Máximo de Jogadores     	: 050 Vagas (-1)
+=> Organizacoes Todas Carregadas
+=> Plantacoes Carregado
+=> Total Carros (1199) Criados
+=> Maximo de Jogadores (49) Slots Definido
+ - = RedeMundoLoKo - RPG! = - 
+________________
+ BPS - RPG
+ 
+~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~
+Number of vehicle models: 143
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+
+Server Plugins
+--------------
+ Loading plugin: SKY
+  Loaded.
+ Loading plugin: sscanf
+
+
+ ===============================
+
+      sscanf plugin loaded.     
+
+         Version:  2.8.3        
+
+  (c) 2018 Alex "Y_Less" Cole  
+
+ ===============================
+
+  Loaded.
+ Loading plugin: streamer
+
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+  Loaded.
+ Loading plugin: textdraw-streamer
+
+ ===============================
+                                
+    Textdraw Streamer Yuklendi  
+                                
+          Surum: v1.6.2            
+                                
+    Developer: Burak (NexoR)    
+                                
+ ===============================
+
+  Loaded.
+ Loaded 4 plugins.
+
+
+Ban list
+--------
+ Loaded: samp.ban
+
+I couldn't load any gamemode scripts. Please verify your server.cfg
+It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+
+Server Plugins
+--------------
+ Loading plugin: SKY
+  Loaded.
+ Loading plugin: sscanf
+
+
+ ===============================
+
+      sscanf plugin loaded.     
+
+         Version:  2.8.3        
+
+  (c) 2018 Alex "Y_Less" Cole  
+
+ ===============================
+
+  Loaded.
+ Loading plugin: streamer
+
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+  Loaded.
+ Loading plugin: textdraw-streamer
+
+ ===============================
+                                
+    Textdraw Streamer Yuklendi  
+                                
+          Surum: v1.6.2            
+                                
+    Developer: Burak (NexoR)    
+                                
+ ===============================
+
+  Loaded.
+ Loaded 4 plugins.
+
+
+Ban list
+--------
+ Loaded: samp.ban
+
+
+Filterscripts
+---------------
+  Loading filterscript 'voip.amx'...
+  Loaded 1 filterscripts.
+
+ 
+ 
+ 
+ ======================================= 
+ |                                     | 
+ |        YSI version 4.00.0001        | 
+ |        By Alex "Y_Less" Cole        | 
+ |                                     | 
+ ======================================= 
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+| 
+| Rede Mundo LoKo RPG| Desenvolvido por LoKoDoGTAv
+| 
+| Atual Fundador/Scripter: dev.alex.vct Scripter
+| Carregando GameMode... Aguarde!
+| 
+| Data: [02/02/2024 às 00:30:03]
+| 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-mSelection- WARNING: Reached maximum amount of items, increase "mS_TOTAL_ITEMS"
+-mSelection- WARNING: Reached maximum amount of items, increase "mS_TOTAL_ITEMS"
+-mSelection- WARNING: No Items found in file: mSelections/moveis_decoracao.txt
+=> Objetos            		: 003 Carregadas
+=> Famílias            		: 050 Carregadas
+=> Baus	            		: 001 Carregadas
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+
+Server Plugins
+--------------
+ Loading plugin: SKY
+  Loaded.
+ Loading plugin: sscanf
+
+
+ ===============================
+
+      sscanf plugin loaded.     
+
+         Version:  2.8.3        
+
+  (c) 2018 Alex "Y_Less" Cole  
+
+ ===============================
+
+  Loaded.
+ Loading plugin: streamer
+
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+  Loaded.
+ Loading plugin: textdraw-streamer
+
+ ===============================
+                                
+    Textdraw Streamer Yuklendi  
+                                
+          Surum: v1.6.2            
+                                
+    Developer: Burak (NexoR)    
+                                
+ ===============================
+
+  Loaded.
+ Loaded 4 plugins.
+
+
+Ban list
+--------
+ Loaded: samp.ban
+
+I couldn't load any gamemode scripts. Please verify your server.cfg
+It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+
+Server Plugins
+--------------
+ Loading plugin: SKY
+  Loaded.
+ Loading plugin: sscanf
+
+
+ ===============================
+
+      sscanf plugin loaded.     
+
+         Version:  2.8.3        
+
+  (c) 2018 Alex "Y_Less" Cole  
+
+ ===============================
+
+  Loaded.
+ Loading plugin: streamer
+
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+  Loaded.
+ Loading plugin: textdraw-streamer
+
+ ===============================
+                                
+    Textdraw Streamer Yuklendi  
+                                
+          Surum: v1.6.2            
+                                
+    Developer: Burak (NexoR)    
+                                
+ ===============================
+
+  Loaded.
+ Loaded 4 plugins.
+
+
+Ban list
+--------
+ Loaded: samp.ban
+
+
+Filterscripts
+---------------
+  Loading filterscript 'voip.amx'...
+  Loaded 1 filterscripts.
+
+ 
+ 
+ 
+ ======================================= 
+ |                                     | 
+ |        YSI version 4.00.0001        | 
+ |        By Alex "Y_Less" Cole        | 
+ |                                     | 
+ ======================================= 
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+| 
+| Rede Mundo LoKo RPG| Desenvolvido por LoKoDoGTAv
+| 
+| Atual Fundador/Scripter: dev.alex.vct Scripter
+| Carregando GameMode... Aguarde!
+| 
+| Data: [02/02/2024 às 00:34:02]
+| 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-mSelection- WARNING: Reached maximum amount of items, increase "mS_TOTAL_ITEMS"
+-mSelection- WARNING: Reached maximum amount of items, increase "mS_TOTAL_ITEMS"
+-mSelection- WARNING: No Items found in file: mSelections/moveis_decoracao.txt
+=> Objetos            		: 003 Carregadas
+=> Famílias            		: 050 Carregadas
+=> Baus	            		: 001 Carregadas
+=> Casas            		: 586 Carregadas
+=> Empresas         		: 038 Carregadas
+=> Fazendas         		: 020 Carregadas
+=> Territorios         		: 4 Carregadas
+=> Veículos apreendidos 	: null Carregadas
+=> Contas	         	: null Carregadas
+=> Total Carros       		: 797 Criados
+=> Máximo de Jogadores     	: 050 Vagas (-1)
+=> Organizacoes Todas Carregadas
+=> Plantacoes Carregado
+=> Total Carros (1199) Criados
+=> Maximo de Jogadores (49) Slots Definido
+ - = RedeMundoLoKo - RPG! = - 
+________________
+ BPS - RPG
+ 
+~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~
+Number of vehicle models: 143
+[connection] 192.168.3.32:59513 requests connection cookie.
+[connection] incoming connection: 192.168.3.32:59513 id: 0
+[join] webzen has joined the server (0:192.168.3.32)
+Sistema de LOG: Gravando log no arquivo: ( Logs/Serial.ini ), texto: ( webzen Serial: D04CF8589E8CF4EA08DCAEC4EEA85DEE090CC8D0 ).
+Sistema de LOG: Log gravado no arquivo: ( Logs/Serial.ini ), texto: acima.
+Sistema de LOG: Gravando log no arquivo: ( Logs/Conexao/Conexaowebzen.ini ), texto: ( [Conexão] webzen(PC) [ID: 0] logou no servidor, Level: 2 | IP: [192.168.3.32]! ).
+Sistema de LOG: Log gravado no arquivo: ( Logs/Conexao/Conexaowebzen.ini ), texto: acima.
+[Conexão] webzen(PC)[ID: 0] logou no servidor, Level: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+
+Server Plugins
+--------------
+ Loading plugin: SKY
+  Loaded.
+ Loading plugin: sscanf
+
+
+ ===============================
+
+      sscanf plugin loaded.     
+
+         Version:  2.8.3        
+
+  (c) 2018 Alex "Y_Less" Cole  
+
+ ===============================
+
+  Loaded.
+ Loading plugin: streamer
+
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+  Loaded.
+ Loading plugin: textdraw-streamer
+
+ ===============================
+                                
+    Textdraw Streamer Yuklendi  
+                                
+          Surum: v1.6.2            
+                                
+    Developer: Burak (NexoR)    
+                                
+ ===============================
+
+  Loaded.
+ Loaded 4 plugins.
+
+
+Ban list
+--------
+ Loaded: samp.ban
+
+
+Filterscripts
+---------------
+  Loading filterscript 'voip.amx'...
+  Loaded 1 filterscripts.
+
+ 
+ 
+ 
+ ======================================= 
+ |                                     | 
+ |        YSI version 4.00.0001        | 
+ |        By Alex "Y_Less" Cole        | 
+ |                                     | 
+ ======================================= 
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+| 
+| Rede Mundo LoKo RPG| Desenvolvido por LoKoDoGTAv
+| 
+| Atual Fundador/Scripter: dev.alex.vct Scripter
+| Carregando GameMode... Aguarde!
+| 
+| Data: [02/02/2024 às 00:38:19]
+| 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-mSelection- WARNING: Reached maximum amount of items, increase "mS_TOTAL_ITEMS"
+-mSelection- WARNING: Reached maximum amount of items, increase "mS_TOTAL_ITEMS"
+-mSelection- WARNING: No Items found in file: mSelections/moveis_decoracao.txt
+=> Objetos            		: 003 Carregadas
+=> Famílias            		: 050 Carregadas
+=> Baus	            		: 001 Carregadas
+=> Casas            		: 586 Carregadas
+=> Empresas         		: 038 Carregadas
+=> Fazendas         		: 020 Carregadas
+=> Territorios         		: 4 Carregadas
+=> Veículos apreendidos 	: null Carregadas
+=> Contas	         	: null Carregadas
+=> Total Carros       		: 797 Criados
+=> Máximo de Jogadores     	: 050 Vagas (-1)
+=> Organizacoes Todas Carregadas
+=> Plantacoes Carregado
+=> Total Carros (1199) Criados
+=> Maximo de Jogadores (49) Slots Definido
+ - = RedeMundoLoKo - RPG! = - 
+________________
+ BPS - RPG
+ 
+~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~
+Number of vehicle models: 143
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+
+Server Plugins
+--------------
+ Loading plugin: SKY
+  Loaded.
+ Loading plugin: sscanf
+
+
+ ===============================
+
+      sscanf plugin loaded.     
+
+         Version:  2.8.3        
+
+  (c) 2018 Alex "Y_Less" Cole  
+
+ ===============================
+
+  Loaded.
+ Loading plugin: streamer
+
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+  Loaded.
+ Loading plugin: textdraw-streamer
+
+ ===============================
+                                
+    Textdraw Streamer Yuklendi  
+                                
+          Surum: v1.6.2            
+                                
+    Developer: Burak (NexoR)    
+                                
+ ===============================
+
+  Loaded.
+ Loaded 4 plugins.
+
+
+Ban list
+--------
+ Loaded: samp.ban
+
+I couldn't load any gamemode scripts. Please verify your server.cfg
+It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+
+Server Plugins
+--------------
+ Loading plugin: SKY
+  Loaded.
+ Loading plugin: sscanf
+
+
+ ===============================
+
+      sscanf plugin loaded.     
+
+         Version:  2.8.3        
+
+  (c) 2018 Alex "Y_Less" Cole  
+
+ ===============================
+
+  Loaded.
+ Loading plugin: streamer
+
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+  Loaded.
+ Loading plugin: textdraw-streamer
+
+ ===============================
+                                
+    Textdraw Streamer Yuklendi  
+                                
+          Surum: v1.6.2            
+                                
+    Developer: Burak (NexoR)    
+                                
+ ===============================
+
+  Loaded.
+ Loaded 4 plugins.
+
+
+Ban list
+--------
+ Loaded: samp.ban
+
+I couldn't load any gamemode scripts. Please verify your server.cfg
+It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+
+Server Plugins
+--------------
+ Loading plugin: SKY
+  Loaded.
+ Loading plugin: sscanf
+
+
+ ===============================
+
+      sscanf plugin loaded.     
+
+         Version:  2.8.3        
+
+  (c) 2018 Alex "Y_Less" Cole  
+
+ ===============================
+
+  Loaded.
+ Loading plugin: streamer
+
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+  Loaded.
+ Loading plugin: textdraw-streamer
+
+ ===============================
+                                
+    Textdraw Streamer Yuklendi  
+                                
+          Surum: v1.6.2            
+                                
+    Developer: Burak (NexoR)    
+                                
+ ===============================
+
+  Loaded.
+ Loaded 4 plugins.
+
+
+Ban list
+--------
+ Loaded: samp.ban
+
+I couldn't load any gamemode scripts. Please verify your server.cfg
+It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+
+Server Plugins
+--------------
+ Loading plugin: SKY
+  Loaded.
+ Loading plugin: sscanf
+
+
+ ===============================
+
+      sscanf plugin loaded.     
+
+         Version:  2.8.3        
+
+  (c) 2018 Alex "Y_Less" Cole  
+
+ ===============================
+
+  Loaded.
+ Loading plugin: streamer
+
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+  Loaded.
+ Loading plugin: textdraw-streamer
+
+ ===============================
+                                
+    Textdraw Streamer Yuklendi  
+                                
+          Surum: v1.6.2            
+                                
+    Developer: Burak (NexoR)    
+                                
+ ===============================
+
+  Loaded.
+ Loaded 4 plugins.
+
+
+Ban list
+--------
+ Loaded: samp.ban
+
+
+Filterscripts
+---------------
+  Loading filterscript 'voip.amx'...
+  Loaded 1 filterscripts.
+
+ 
+ 
+ 
+ ======================================= 
+ |                                     | 
+ |        YSI version 4.00.0001        | 
+ |        By Alex "Y_Less" Cole        | 
+ |                                     | 
+ ======================================= 
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+| 
+| Rede Mundo LoKo RPG| Desenvolvido por LoKoDoGTAv
+| 
+| Atual Fundador/Scripter: dev.alex.vct Scripter
+| Carregando GameMode... Aguarde!
+| 
+| Data: [02/02/2024 às 00:40:31]
+| 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-mSelection- WARNING: Reached maximum amount of items, increase "mS_TOTAL_ITEMS"
+-mSelection- WARNING: Reached maximum amount of items, increase "mS_TOTAL_ITEMS"
+-mSelection- WARNING: No Items found in file: mSelections/moveis_decoracao.txt
+=> Objetos            		: 003 Carregadas
+=> Famílias            		: 050 Carregadas
+=> Baus	            		: 001 Carregadas
+=> Casas            		: 586 Carregadas
+=> Empresas         		: 038 Carregadas
+=> Fazendas         		: 020 Carregadas
+=> Territorios         		: 4 Carregadas
+=> Veículos apreendidos 	: null Carregadas
+=> Contas	         	: null Carregadas
+=> Total Carros       		: 797 Criados
+=> Máximo de Jogadores     	: 050 Vagas (-1)
+=> Organizacoes Todas Carregadas
+=> Plantacoes Carregado
+=> Total Carros (1199) Criados
+=> Maximo de Jogadores (49) Slots Definido
+ - = RedeMundoLoKo - RPG! = - 
+________________
+ BPS - RPG
+ 
+~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~
+Number of vehicle models: 143
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+
+Server Plugins
+--------------
+ Loading plugin: SKY
+  Loaded.
+ Loading plugin: sscanf
+
+
+ ===============================
+
+      sscanf plugin loaded.     
+
+         Version:  2.8.3        
+
+  (c) 2018 Alex "Y_Less" Cole  
+
+ ===============================
+
+  Loaded.
+ Loading plugin: streamer
+
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+  Loaded.
+ Loading plugin: textdraw-streamer
+
+ ===============================
+                                
+    Textdraw Streamer Yuklendi  
+                                
+          Surum: v1.6.2            
+                                
+    Developer: Burak (NexoR)    
+                                
+ ===============================
+
+  Loaded.
+ Loaded 4 plugins.
+
+
+Ban list
+--------
+ Loaded: samp.ban
+
+
+Filterscripts
+---------------
+  Loading filterscript 'voip.amx'...
+  Loaded 1 filterscripts.
+
+ 
+ 
+ 
+ ======================================= 
+ |                                     | 
+ |        YSI version 4.00.0001        | 
+ |        By Alex "Y_Less" Cole        | 
+ |                                     | 
+ ======================================= 
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+| 
+| Rede Mundo LoKo RPG| Desenvolvido por LoKoDoGTAv
+| 
+| Atual Fundador/Scripter: dev.alex.vct Scripter
+| Carregando GameMode... Aguarde!
+| 
+| Data: [02/02/2024 às 00:42:34]
+| 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-mSelection- WARNING: Reached maximum amount of items, increase "mS_TOTAL_ITEMS"
+-mSelection- WARNING: Reached maximum amount of items, increase "mS_TOTAL_ITEMS"
+-mSelection- WARNING: No Items found in file: mSelections/moveis_decoracao.txt
+=> Objetos            		: 003 Carregadas
+=> Famílias            		: 050 Carregadas
+=> Baus	            		: 001 Carregadas
+=> Casas            		: 586 Carregadas
+=> Empresas         		: 038 Carregadas
+=> Fazendas         		: 020 Carregadas
+=> Territorios         		: 4 Carregadas
+=> Veículos apreendidos 	: null Carregadas
+=> Contas	         	: null Carregadas
+=> Total Carros       		: 797 Criados
+=> Máximo de Jogadores     	: 050 Vagas (-1)
+=> Organizacoes Todas Carregadas
+=> Plantacoes Carregado
+=> Total Carros (1199) Criados
+=> Maximo de Jogadores (49) Slots Definido
+ - = RedeMundoLoKo - RPG! = - 
+________________
+ BPS - RPG
+ 
+~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~
+Number of vehicle models: 143
+[connection] 192.168.3.32:50603 requests connection cookie.
+[connection] incoming connection: 192.168.3.32:50603 id: 0
+[join] webzen has joined the server (0:192.168.3.32)
+Sistema de LOG: Gravando log no arquivo: ( Logs/Serial.ini ), texto: ( webzen Serial: 8C84F898C94E99EC58DD0CE5599D48ACE5C59CC4 ).
+Sistema de LOG: Log gravado no arquivo: ( Logs/Serial.ini ), texto: acima.
+Sistema de LOG: Gravando log no arquivo: ( Logs/Conexao/Conexaowebzen.ini ), texto: ( [Conexão] webzen(PC) [ID: 0] logou no servidor, Level: 2 | IP: [192.168.3.32]! ).
+Sistema de LOG: Log gravado no arquivo: ( Logs/Conexao/Conexaowebzen.ini ), texto: acima.
+[Conexão] webzen(PC)[ID: 0] logou no servidor, Level: 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+
+Server Plugins
+--------------
+ Loading plugin: SKY
+  Loaded.
+ Loading plugin: sscanf
+
+
+ ===============================
+
+      sscanf plugin loaded.     
+
+         Version:  2.8.3        
+
+  (c) 2018 Alex "Y_Less" Cole  
+
+ ===============================
+
+  Loaded.
+ Loading plugin: streamer
+
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+  Loaded.
+ Loading plugin: textdraw-streamer
+
+ ===============================
+                                
+    Textdraw Streamer Yuklendi  
+                                
+          Surum: v1.6.2            
+                                
+    Developer: Burak (NexoR)    
+                                
+ ===============================
+
+  Loaded.
+ Loaded 4 plugins.
+
+
+Ban list
+--------
+ Loaded: samp.ban
+
+
+Filterscripts
+---------------
+  Loading filterscript 'voip.amx'...
+  Loaded 1 filterscripts.
+
+ 
+ 
+ 
+ ======================================= 
+ |                                     | 
+ |        YSI version 4.00.0001        | 
+ |        By Alex "Y_Less" Cole        | 
+ |                                     | 
+ ======================================= 
+ 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+| 
+| Rede Mundo LoKo RPG| Desenvolvido por LoKoDoGTAv
+| 
+| Atual Fundador/Scripter: dev.alex.vct Scripter
+| Carregando GameMode... Aguarde!
+| 
+| Data: [02/02/2024 às 00:51:21]
+| 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-mSelection- WARNING: Reached maximum amount of items, increase "mS_TOTAL_ITEMS"
+-mSelection- WARNING: Reached maximum amount of items, increase "mS_TOTAL_ITEMS"
+-mSelection- WARNING: No Items found in file: mSelections/moveis_decoracao.txt
+=> Objetos            		: 003 Carregadas
+=> Famílias            		: 050 Carregadas
+=> Baus	            		: 001 Carregadas
+=> Casas            		: 586 Carregadas
+=> Empresas         		: 038 Carregadas
+=> Fazendas         		: 020 Carregadas
+=> Territorios         		: 4 Carregadas
+=> Veículos apreendidos 	: null Carregadas
+=> Contas	         	: null Carregadas
+=> Total Carros       		: 797 Criados
+=> Máximo de Jogadores     	: 050 Vagas (-1)
+=> Organizacoes Todas Carregadas
+=> Plantacoes Carregado
+=> Total Carros (1199) Criados
+=> Maximo de Jogadores (49) Slots Definido
+ - = RedeMundoLoKo - RPG! = - 
+________________
+ BPS - RPG
+ 
+~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~
+Number of vehicle models: 143
+[connection] 192.168.3.32:64225 requests connection cookie.
+[connection] incoming connection: 192.168.3.32:64225 id: 0
+[join] webzen has joined the server (0:192.168.3.32)
+Sistema de LOG: Gravando log no arquivo: ( Logs/Serial.ini ), texto: ( webzen Serial: F0D8458DDDCD8E9AE4DD45D99CED8DE48A85E0E4 ).
+Sistema de LOG: Log gravado no arquivo: ( Logs/Serial.ini ), texto: acima.
+Sistema de LOG: Gravando log no arquivo: ( Logs/Conexao/Conexaowebzen.ini ), texto: ( [Conexão] webzen(PC) [ID: 0] logou no servidor, Level: 2 | IP: [192.168.3.32]! ).
+Sistema de LOG: Log gravado no arquivo: ( Logs/Conexao/Conexaowebzen.ini ), texto: acima.
+[Conexão] webzen(PC)[ID: 0] logou no servidor, Level: 2
+Sistema de LOG: Gravando log no arquivo: ( Logs/Chat.ini ), texto: ( webzen[0] diz: mensagem ).
+Sistema de LOG: Log gravado no arquivo: ( Logs/Chat.ini ), texto: acima.
+Sistema de LOG: Gravando log no arquivo: ( Logs/Msgtoall.ini ), texto: ( [Salvamento] Salvando dados do servidor .. ).
+Sistema de LOG: Log gravado no arquivo: ( Logs/Msgtoall.ini ), texto: acima.
+Sistema de LOG: Gravando log no arquivo: ( Logs/Msgtoall.ini ), texto: ( [Salvamento] Dados do servidor salvo com sucesso! ).
+Sistema de LOG: Log gravado no arquivo: ( Logs/Msgtoall.ini ), texto: acima.
+Sistema de LOG: Gravando log no arquivo: ( Logs/Msgtoall.ini ), texto: ( [Salvamento] Salvando dados de todas as contas .. ).
+Sistema de LOG: Log gravado no arquivo: ( Logs/Msgtoall.ini ), texto: acima.
+Sistema de LOG: Gravando log no arquivo: ( Logs/Msgtoall.ini ), texto: ( [Salvamento] Dados das contas salvo com sucesso! ).
+Sistema de LOG: Log gravado no arquivo: ( Logs/Msgtoall.ini ), texto: acima.
+vendendo casa 1
+vendendo casa 2

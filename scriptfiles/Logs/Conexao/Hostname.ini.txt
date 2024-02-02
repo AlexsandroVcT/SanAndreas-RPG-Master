@@ -1,0 +1,5 @@
+nomeserver1 = Brasil Paradise City RPG [Android/PC]
+nomeserver2 = Brasil Paradise City | Servidor novo
+nomeserver3 = Brasil Paradise City | Orgs grates
+nomeserver4 = Brasil Paradise City | Editamos RG
+nomeserver5 = Brasil Paradise City | Vaga para helper

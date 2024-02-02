@@ -1,0 +1,52 @@
+D:\Servidor_samp\gamemodes\RPD.pwn(11028) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "gunAmmo"
+D:\Servidor_samp\gamemodes\RPD.pwn(10959) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "vid"
+D:\Servidor_samp\gamemodes\RPD.pwn(11031) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "velo"
+D:\Servidor_samp\gamemodes\RPD.pwn(11032) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "tvping"
+D:\Servidor_samp\gamemodes\RPD.pwn(10953) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "tvstring"
+D:\Servidor_samp\gamemodes\RPD.pwn(13431) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(13455) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(13479) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(13503) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(13575) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(13580) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(13589) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(13594) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(13599) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(13605) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(13606) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(13608) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(13610) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(16723) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(32531) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\Servidor_samp\gamemodes\RPD.pwn(32527) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "moedasCarro2"
+D:\Servidor_samp\gamemodes\RPD.pwn(32526) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "moedasCarro1"
+D:\Servidor_samp\gamemodes\RPD.pwn(32529) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "Carro2"
+D:\Servidor_samp\gamemodes\RPD.pwn(32528) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "Carro1"
+D:\Servidor_samp\gamemodes\RPD.pwn(38091) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\Servidor_samp\gamemodes\RPD.pwn(38954) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\Servidor_samp\gamemodes\RPD.pwn(38962) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\Servidor_samp\gamemodes\RPD.pwn(38963) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\Servidor_samp\gamemodes\RPD.pwn(39157) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\Servidor_samp\gamemodes\RPD.pwn(39404) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\Servidor_samp\gamemodes\RPD.pwn(42059) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\Servidor_samp\gamemodes\RPD.pwn(63359) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(63453) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(63454) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(63455) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(63456) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(63641) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(63642) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(68258) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(68290) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+D:\Servidor_samp\gamemodes\RPD.pwn(99157) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\Servidor_samp\gamemodes\RPD.pwn(99158) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\Servidor_samp\gamemodes\RPD.pwn(99159) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\Servidor_samp\gamemodes\RPD.pwn(116755) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\Servidor_samp\gamemodes\RPD.pwn(116756) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\Servidor_samp\gamemodes\RPD.pwn(132357) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "Angle" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+D:\Servidor_samp\gamemodes\RPD.pwn(267) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "g_PlayerHasPermission"
+D:\Servidor_samp\gamemodes\RPD.pwn(136927) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "senhaadmin"
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Ïðåäóïðåæäåíèé:24.
