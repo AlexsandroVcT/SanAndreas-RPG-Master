@@ -12,7 +12,7 @@ Bem-vindo ao Gamemode de RPG para SAMP, uma experiência de jogo incrível no un
 
 ## Instalação
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/gamemode-rpg-samp.git`.
+1. Clone este repositório: `git clone git@github.com:AlexsandroVcT/SanAndreas-RPG-Master.git`.
 2. Importe o banco de dados fornecido (`database.sql`) no seu servidor MySQL.
 3. Configure as informações do banco de dados no arquivo `scriptfiles/gamemode.cfg`.
 4. Inicie seu servidor SAMP e aproveite!
